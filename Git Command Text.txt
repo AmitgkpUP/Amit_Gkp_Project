@@ -1,0 +1,7 @@
+1. git config --global user.name "Amit"-> To Create your username
+2. git config --global user.name --> To   See your username
+
+
+1. git config --global user.email "Amit@gmail.com" -> To Create your email
+2. git config --global user.email -> To Create your email
+ 
